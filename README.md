@@ -3,4 +3,4 @@
 
 # Screen GIF
 
-![](https://github.com/FourAndHalf/ChatApp/blob/main/Chatapp.wfp)
+![](https://github.com/FourAndHalf/ChatApp/blob/main/Chatapp.gif)
